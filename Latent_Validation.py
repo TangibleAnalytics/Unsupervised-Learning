@@ -6,7 +6,6 @@ Created on Tue Apr  9 16:09:50 2019
 """
 
 import numpy as np
-from sklearn.preprocessing import StandardScaler
 
 def Validation_Score_1D(Latent_Model,Validation_Data,Verbose_Rate=None):
     #Need to standardize validation data before using this function
