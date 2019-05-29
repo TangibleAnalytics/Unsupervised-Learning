@@ -7,8 +7,6 @@ Created on Mon Apr 15 11:08:04 2019
 
 import numpy as np
 import pandas as pd
-import pickle
-import time
 from sklearn.preprocessing import StandardScaler
 
 
